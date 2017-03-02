@@ -14,12 +14,12 @@
         <legend>Add an employee</legend>
         <p>
             <label for="firstName">First Name: </label>
-            <input type="text" id="firstName" name="firstName" 
+            <input type="text" id="firstName" name="firstName"
                 tabindex="1">
         </p>
         <p>
-            <label for="lastName">First Name: </label>
-            <input type="text" id="lastName" name="lastName" 
+            <label for="lastName">Last Name: </label>
+            <input type="text" id="lastName" name="lastName"
                 tabindex="2">
         </p>
         <p>
@@ -31,7 +31,7 @@
         </p>
         <p id="buttons">
             <input id="reset" type="reset" tabindex="4">
-            <input id="submit" type="submit" tabindex="5" 
+            <input id="submit" type="submit" tabindex="5"
                 value="Add Employee">
         </p>
     </fieldset>
